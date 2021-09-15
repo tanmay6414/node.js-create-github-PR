@@ -1,4 +1,4 @@
-## This file will update file from GitHub repository and create GitHub PR for this.
+## This file will update file from GitHub repository and create GitHub PR using Node.js .
 ### Need to specify some of the custome values in code.
 1. const organisation = Basically username of GitHub account
 2. const repository = GitHub Repository on which you want to make changes
